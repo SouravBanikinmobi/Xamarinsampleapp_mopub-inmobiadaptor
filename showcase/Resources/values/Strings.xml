@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Click Me!</string>
+    <string name="app_name">showcase</string>
+     <string name="mopub_ad_id_banner">cd3dd6bc98ef4ccfb657f48a39fe0880</string>  
+</resources>

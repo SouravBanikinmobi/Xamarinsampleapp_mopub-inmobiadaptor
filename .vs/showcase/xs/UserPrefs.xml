@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{F8C938AF-6895-4C59-AAE6-C41C82E7B3B9}|Default">
+  <MonoDevelop.Ide.ItemProperties.showcase AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="showcase/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="../Jars/Jars/Transforms/Metadata.xml" Line="21" Column="119" />
+      <File FileName="../Jars/Jars/Transforms/EnumFields.xml" Line="1" Column="1" />
+      <File FileName="../Jars/Jars/Transforms/EnumMethods.xml" Line="1" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/8.3.3-2/lib/xamarin.android/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1429" Column="2" />
+      <File FileName="showcase/MainActivity.cs" Line="40" Column="29" />
+      <File FileName="showcase/Properties/AndroidManifest.xml" Line="23" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
