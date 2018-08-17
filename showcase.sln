@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "showcase", "showcase\showcase.csproj", "{F8C938AF-6895-4C59-AAE6-C41C82E7B3B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MopubSdk", "..\..\Documents\xamarin\mopub-xamarin-binding-master 4\MopubSdk\MopubSdk.csproj", "{7BE6BFD1-FF27-4C32-995F-25B14E1A3F96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MopubSdk", "MopubSdk\MopubSdk.csproj", "{7BE6BFD1-FF27-4C32-995F-25B14E1A3F96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jars", "..\Jars\Jars\Jars.csproj", "{CFFD0C9C-02B6-459C-8B1B-58EA0597E586}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jars", "Jars\Jars\Jars.csproj", "{CFFD0C9C-02B6-459C-8B1B-58EA0597E586}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

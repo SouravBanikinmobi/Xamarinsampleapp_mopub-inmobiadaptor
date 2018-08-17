@@ -1,14 +1,25 @@
 ﻿<Properties StartupConfiguration="{F8C938AF-6895-4C59-AAE6-C41C82E7B3B9}|Default">
   <MonoDevelop.Ide.ItemProperties.showcase AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="showcase/Properties/AndroidManifest.xml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="showcase/MainActivity.cs">
     <Files>
-      <File FileName="../Jars/Jars/Transforms/Metadata.xml" Line="21" Column="119" />
-      <File FileName="../Jars/Jars/Transforms/EnumFields.xml" Line="1" Column="1" />
-      <File FileName="../Jars/Jars/Transforms/EnumMethods.xml" Line="1" Column="1" />
-      <File FileName="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/8.3.3-2/lib/xamarin.android/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1429" Column="2" />
-      <File FileName="showcase/MainActivity.cs" Line="40" Column="29" />
+      <File FileName="showcase/MainActivity.cs" Line="32" Column="17" />
       <File FileName="showcase/Properties/AndroidManifest.xml" Line="23" Column="9" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="showcase" expanded="True">
+            <Node name="MopubSdk" expanded="True">
+              <Node name="Jars" expanded="True" />
+            </Node>
+            <Node name="showcase" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

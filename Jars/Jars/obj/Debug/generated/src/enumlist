@@ -1,0 +1,8 @@
+com.integralads.avid.library.inmobi.session.internal.MediaType:Com.Integralads.Avid.Library.Inmobi.Session.Internal:MediaType
+com.integralads.avid.library.inmobi.session.internal.SessionType:Com.Integralads.Avid.Library.Inmobi.Session.Internal:SessionType
+com.integralads.avid.library.inmobi.walking.ViewType:Com.Integralads.Avid.Library.Inmobi.Walking:ViewType
+com.moat.analytics.mobile.inm.NativeDisplayTracker$MoatUserInteractionType:Com.Moat.Analytics.Mobile.Inm:NativeDisplayTracker.MoatUserInteractionType
+com.squareup.picasso.MemoryPolicy:Com.Squareup.Picasso:MemoryPolicy
+com.squareup.picasso.NetworkPolicy:Com.Squareup.Picasso:NetworkPolicy
+com.squareup.picasso.Picasso$LoadedFrom:Com.Squareup.Picasso:Picasso.LoadedFrom
+com.squareup.picasso.Picasso$Priority:Com.Squareup.Picasso:Picasso.Priority

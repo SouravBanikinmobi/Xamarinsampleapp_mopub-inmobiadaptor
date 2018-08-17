@@ -1,0 +1,10 @@
+/Users/sourav.banik/Documents/xamarin/mopub-xamarin-binding-master 4/MopubSdk/bin/Debug/MopubSdk.dll
+/Users/sourav.banik/Documents/xamarin/mopub-xamarin-binding-master 4/MopubSdk/bin/Debug/MopubSdk.pdb
+/Users/sourav.banik/Documents/xamarin/mopub-xamarin-binding-master 4/MopubSdk/obj/Debug/MopubSdk.csproj.CoreCompileInputs.cache
+/Users/sourav.banik/Documents/xamarin/mopub-xamarin-binding-master 4/MopubSdk/obj/Debug/MopubSdk.dll
+/Users/sourav.banik/Documents/xamarin/mopub-xamarin-binding-master 4/MopubSdk/obj/Debug/MopubSdk.pdb
+/Users/sourav.banik/Documents/xamarin/showcase/MopubSdk/bin/Debug/MopubSdk.dll
+/Users/sourav.banik/Documents/xamarin/showcase/MopubSdk/bin/Debug/MopubSdk.pdb
+/Users/sourav.banik/Documents/xamarin/showcase/MopubSdk/obj/Debug/MopubSdk.csproj.CoreCompileInputs.cache
+/Users/sourav.banik/Documents/xamarin/showcase/MopubSdk/obj/Debug/MopubSdk.dll
+/Users/sourav.banik/Documents/xamarin/showcase/MopubSdk/obj/Debug/MopubSdk.pdb

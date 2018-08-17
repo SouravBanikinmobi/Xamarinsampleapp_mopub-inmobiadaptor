@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DefineConstants>$(DefineConstants);ANDROID_1;ANDROID_2;ANDROID_3;ANDROID_4;ANDROID_5;ANDROID_6;ANDROID_7;ANDROID_8;ANDROID_9;ANDROID_10;ANDROID_11;ANDROID_12;ANDROID_13;ANDROID_14;ANDROID_15;ANDROID_16;ANDROID_17;ANDROID_18;ANDROID_19;ANDROID_20;ANDROID_21;ANDROID_22;ANDROID_23</DefineConstants>
+  </PropertyGroup>
+  <!-- Classes -->
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Inmobi.Ads.InMobiAdRequest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Inmobi.Ads.NativeScrollableContainer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Inmobi.Ads.NativeVideoWrapper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Inmobi.Commons.Core.Network.NetworkError.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Inmobi.Commons.Core.Network.WebViewNetworkTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Inmobi.Commons.Core.Utilities.Uid.ImIdShareBroadCastReceiver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Inmobi.Showcase.BuildConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.BuildConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Deferred.IAvidDeferredAdSessionListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.DownloadAvidTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Processing.AvidProcessorFactory.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Processing.IAvidNodeProcessor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Session.ExternalAvidAdSessionContext.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Session.Internal.Jsbridge.AvidEvent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Session.Internal.Jsbridge.AvidJavascriptInterface.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Session.Internal.MediaType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Session.Internal.SessionType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Session.Internal.Trackingwebview.IAvidJavaScriptResourceInjector.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Utils.AvidCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Utils.AvidTimestamp.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Video.IAvidVideoPlaybackListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Walking.Async.AvidCleanupAsyncTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Walking.Async.AvidEmptyPublishAsyncTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Walking.Async.AvidPublishAsyncTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Walking.AvidStatePublisher.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Integralads.Avid.Library.Inmobi.Walking.ViewType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Moat.Analytics.Mobile.Inm.INativeDisplayTracker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Moat.Analytics.Mobile.Inm.INativeVideoTracker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Moat.Analytics.Mobile.Inm.IReactiveVideoTracker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Moat.Analytics.Mobile.Inm.IWebAdTracker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Moat.Analytics.Mobile.Inm.MoatAdEvent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Moat.Analytics.Mobile.Inm.MoatOptions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.ICache.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.ICallback.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.IDownloader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.ITarget.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.ITransformation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.LruCache.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.MemoryPolicy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.NetworkPolicy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.Picasso.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.Request.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.RequestCreator.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.RequestHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.StatsSnapshot.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.UrlConnectionDownloader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Java.Interop.__TypeRegistrations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\__NamespaceMapping__.cs" />
+  </ItemGroup>
+  <!-- Enums -->
+  <ItemGroup />
+</Project>

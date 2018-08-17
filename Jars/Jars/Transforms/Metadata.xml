@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->
+    <add-node path="/api/package[@name='com.integralads.avid.library.inmobi.walking.async']">
+  <class abstract="false" deprecated="not deprecated" final="false" name="AvidCleanupAsyncTask" static="true" visibility="public" extends="java.lang.Object">
+  </class>
+
+  <class abstract="false" deprecated="not deprecated" final="false" name="AvidEmptyPublishAsyncTask" static="true" visibility="public" extends="java.lang.Object">
+  </class>
+        <class abstract="false" deprecated="not deprecated" final="false" name="AvidPublishAsyncTask" static="true" visibility="public" extends="java.lang.Object">
+  </class>
+        
+</add-node>
+    <add-node path="/api/package[@name='com.integralads.avid.library.inmobi']">
+         <class abstract="false" deprecated="not deprecated" final="false" name="DownloadAvidTask" static="true" visibility="public" extends="java.lang.Object">
+  </class>
+        </add-node>
+        <attr path="/api/package[@name='com.moat.analytics.mobile.inm']/class[@name='ReactiveVideoTrackerPlugin']" name="visibility">private</attr>
+
+</metadata>

@@ -1,0 +1,11 @@
+/Users/sourav.banik/Projects/Jars/Jars/bin/Debug/Jars.dll
+/Users/sourav.banik/Projects/Jars/Jars/bin/Debug/Jars.pdb
+/Users/sourav.banik/Projects/Jars/Jars/obj/Debug/Jars.csprojResolveAssemblyReference.cache
+/Users/sourav.banik/Projects/Jars/Jars/obj/Debug/Jars.csproj.CoreCompileInputs.cache
+/Users/sourav.banik/Projects/Jars/Jars/obj/Debug/Jars.dll
+/Users/sourav.banik/Projects/Jars/Jars/obj/Debug/Jars.pdb
+/Users/sourav.banik/Documents/xamarin/showcase/Jars/Jars/bin/Debug/Jars.dll
+/Users/sourav.banik/Documents/xamarin/showcase/Jars/Jars/bin/Debug/Jars.pdb
+/Users/sourav.banik/Documents/xamarin/showcase/Jars/Jars/obj/Debug/Jars.csproj.CoreCompileInputs.cache
+/Users/sourav.banik/Documents/xamarin/showcase/Jars/Jars/obj/Debug/Jars.dll
+/Users/sourav.banik/Documents/xamarin/showcase/Jars/Jars/obj/Debug/Jars.pdb

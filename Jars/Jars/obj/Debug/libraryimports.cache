@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj/Debug/lp/0/jl/mopub-inmobi-custom-events.jar</Jar>
+    <Jar>obj/Debug/lp/0/jl/picasso-2.5.2.jar</Jar>
+  </Jars>
+</Paths>
